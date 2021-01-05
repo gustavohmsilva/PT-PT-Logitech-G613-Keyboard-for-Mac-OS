@@ -1,10 +1,8 @@
-# ms-wired-keyboard-600
-Portuguese layout of the Microsoft Wired Keyboard 600 to use it on mac
+# PT-PT Layout for Logitech G613 Keyboard in MacOS
 
-Para instalar, copiar os ficheiros para:
+Based on [bitfhacker](http://github.com/bitfhacker)'s [ms-wired-keyboard-600](https://github.com/bitfhacker/ms-wired-keyboard-600)'s project. But modified for my Mechanical Logitech G613 Wireless keyboard.
 
-/Library/Keyboard Layouts
+Story is too well known. I don't like Apple's keyboard and Apple's layout, but my company issues Mac's for it's developers. Therefore, it's hacking time! I used a project for another keyboard to modify my own version and shared here with the comunity. I hope it help other Portuguese developers facing the same problem than I.
 
-(necessário acessos de root)
-
-Depois, ir a preferências do sistema > Keyboard > Input Sources e adicionar a versão PT (bitfhacker).
+To install copy both files to ~/Library/Keyboard Layouts
+Then, go to System Preferences, Keyboard, Input Sources, Others, than select "Pt-PT (gustavohmsilva)".
